@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabComWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+647daa45c7a948301b4106640bee90774fe48a9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+139cf603a047ffe56eaba6dc8e2d426c8174a2cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabComWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabComWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
